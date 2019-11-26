@@ -1,0 +1,2 @@
+# mycli
+MyCLI config file
